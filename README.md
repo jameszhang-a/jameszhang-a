@@ -1,18 +1,13 @@
 ### Hi there 👋
 
+| <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=jameszhang-a&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=material-palenight" alt="James' github stats" />| <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=jameszhang-a&layout=compact&langs_count=8&hide_border=1&role=OWNER,COLLABORATOR&theme=material-palenight" />|
+| ------------- | ------------- |
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jameszhang-a&show_icons=true&theme=material-palenight"/>
-</p>
 
+### 🔭 What I'm working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badger-advisor&repo=madflow&theme=buefy)](https://github.com/badger-advisor/madflow)
 
-## What I'm working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badger-advisor&repo=madflow&theme=ayu-mirage)](https://github.com/badger-advisor/madflow)
-
-<p align="center">
-  <img src="hhttps://github-readme-stats.vercel.app/api/pin/?username=badger-advisor&repo=madflow)](https://github.com/badger-advisor/madflow"/>
-</p>
 
 <!--
 **jameszhang-a/jameszhang-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
