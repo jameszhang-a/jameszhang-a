@@ -7,7 +7,7 @@
 
 ### 🔭 What I'm working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badger-advisor&repo=madflow&theme=buefy)](https://github.com/badger-advisor/madflow)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jz-learning&repo=learn-go&theme=buefy)](https://github.com/badger-advisor/madflow)
 
 <!--
 **jameszhang-a/jameszhang-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
